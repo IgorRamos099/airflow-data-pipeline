@@ -14,7 +14,7 @@ Pipeline de dados construído com Apache Airflow e Docker, processando dados bru
 
 
 
-Desenvolvimento de um pipeline automatizado para a empresa DncInsight Solutions, transformando dados brutos em insights estratégicos através de um processo de limpeza, agregação e análise de dados.
+Desenvolvimento de um pipeline automatizado, transformando dados brutos em insights estratégicos através de um processo de limpeza, agregação e análise de dados.
 
 
 
