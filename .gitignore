@@ -1,0 +1,11 @@
+# Dados
+data/bronze/
+data/prata/
+data/ouro/
+data/raw_data.csv
+
+# Logs do Airflow
+logs/
+
+# Variáveis de ambiente
+.env
