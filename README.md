@@ -50,7 +50,7 @@ projeto_dncinsight/
 
 ├── dags/
 
-│   └── pipeline\_dncinsight.py   # DAG principal do Airflow
+│   └── pipeline_dncinsight.py   # DAG principal do Airflow
 
 │
 
@@ -98,7 +98,7 @@ projeto_dncinsight/
 
 git clone https://github.com/SEU_USUARIO/projeto\_dncinsight.git
 
-cd projeto\_dncinsight
+cd projeto_dncinsight
 
 ```
 
